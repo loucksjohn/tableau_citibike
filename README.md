@@ -6,19 +6,18 @@ The purpose of this project was to investigate the impact of the COVID-19 pandem
 
 This Belly Button Plot.ly project creates an interactive dashboard that allows the user to analyze the microbial portrait of each test's subject navel (belly button).  In 2011, the Public Science Lab at NC State began a study into the microbes that inhabit the human belly button, and the data supplied for this dashboard came directly out of that study.
 
-![B3](https://github.com/loucksjohn/belly_button_Plot.ly/blob/main/Resources/microbes-sem.jpg?raw=true)
-
+![B3](https://github.com/loucksjohn/tableau_citibike/blob/main/images/citibike-new.jpg?raw=true)
 
 
 ## Operating Instructions
-In order to view the dashboard, you will need to navigate to WEBADDRESS in your internet browser.  Once the site has loaded, you can select individual test subjects in the drop-down menu that is on the top left-hand side of the page.  The site will come pre-loaded with the information for ID# 940, and every time you select a new Test Subject ID number, the charts and Demographic Info will update based on the ID that was selected.
+In order to view the Tableau story and dashboards, you can either download the 'citibike.jl.twb' file in this repo and view in your Tableau desktop app or you can also access it online by visiting my [Tableau Public](https://public.tableau.com/profile/john.loucks5224#!/vizhome/CitiBikeStory_16116200207080/CitiBikeStory) account.  In the top right-hand corner of all the views, there are sliders that allow you to view the entire eleven month timeframe or drill down into specific months.
 
 ## Resources
 In the GitHub repository for this project you will find all the resources necessary for the creation of this dashboard.  Here's a quick rundow of those files and a brief explanation:
 * samples.json - the Belly Button Data Set from the Public Science Lab that contains all of the information regarding the individuals who participated in the study and the bacteria found in their belly button
 * index.html - is the the webpage framework that displays the interactive dashboard in the browser
     * please note that within the index.html file you will find addtional outside sources.  Bootstrap is being referenced in the building of the webpage structure, D3 is being used as a source to manipulate the data in the files , and plot.ly is also being used as a source to help create the charts/graphs.
-* app.js - this is the javascript file that that is running in the HTML.  in app.js, I am reading in the 'samples.json' data and then manipulating it so that it can be used to create the Plot.ly charts.
+
 
 ##  Final Analysis
 It comes as no surprise to report that the Covid19 pandemic had significant impact on CitiBike ridership during 2020.  Prior to downloading and analyzing the data, I knew the effects of the pandemic would have a negative impact on the program--but I was unsure as to what the final analysis would show.  Here are the main three  phenomena that are most important and deserve to be pointed out:
