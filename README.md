@@ -14,6 +14,9 @@ In order to view the Tableau story and dashboards, you can either download the '
 
 ![B3](https://github.com/loucksjohn/tableau_citibike/blob/main/images/dashboard1.JPG?raw=true)
 
+![B3](https://github.com/loucksjohn/tableau_citibike/blob/main/images/dashboardtwo.JPG?raw=true)
+
+
 ## Resources
 In the GitHub repository for this project you will find all the resources necessary to view this Tableau story and dashboard.  Here's a quick rundow of those files and a brief explanation:
 * citibike.jl.twb - the Tableau workbook file that contains the full Citibike story, plus the dashboards, and the worksheets that were built for the creation of the Citibike story.
