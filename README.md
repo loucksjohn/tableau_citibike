@@ -6,7 +6,7 @@ The purpose of this project was to investigate the impact of the COVID-19 pandem
 
 This Belly Button Plot.ly project creates an interactive dashboard that allows the user to analyze the microbial portrait of each test's subject navel (belly button).  In 2011, the Public Science Lab at NC State began a study into the microbes that inhabit the human belly button, and the data supplied for this dashboard came directly out of that study.
 
-![B3](https://github.com/loucksjohn/tableau_citibike/blob/main/images/citibike-new.jpg?raw=true)
+!(https://github.com/loucksjohn/tableau_citibike/blob/main/images/citibike-new.jpg?raw=true)
 
 
 ## Operating Instructions
@@ -21,7 +21,8 @@ In order to view the Tableau story and dashboards, you can either download the '
 In the GitHub repository for this project you will find all the resources necessary to view this Tableau story and dashboard.  Here's a quick rundow of those files and a brief explanation:
 * citibike.jl.twb - the Tableau workbook file that contains the full Citibike story, plus the dashboards, and the worksheets that were built for the creation of the Citibike story.
 * concat_csv.ipynb - the Jupyter notebook file that used to combine all of the NY & Jersey City (JC) files that were downloaded as CSV files from the Citibike website.
-    * please note that  within the index.html file you will find addtional outside sources.  Bootstrap is being referenced in the building of the webpage structure, D3 is being used as a source to manipulate the data in the files , and plot.ly is also being used as a source to help create the charts/graphs.
+* in the resources folder you will find all the csv files for ONLY the JC trips.  The NYC trip files are to large right now to upload into this repository.  
+*  the image folder only contains screenshots that were used to create the README file
 
 
 ##  Final Analysis
@@ -36,9 +37,4 @@ It comes as no surprise to report that the Covid19 pandemic had significant impa
 John Loucks\
 Email:  johnloucks@gmail.com\
 GitHub:  https://github.com/loucksjohn
-
-
-
-
-
-https://public.tableau.com/profile/john.loucks5224#!/vizhome/CitiBikeStory_16116200207080/CitiBikeStory
+link to tableau public:  https://public.tableau.com/profile/john.loucks5224#!/vizhome/CitiBikeStory_16116200207080/CitiBikeStory
