@@ -6,7 +6,7 @@ The purpose of this project was to investigate the impact of the COVID-19 pandem
 
 This Belly Button Plot.ly project creates an interactive dashboard that allows the user to analyze the microbial portrait of each test's subject navel (belly button).  In 2011, the Public Science Lab at NC State began a study into the microbes that inhabit the human belly button, and the data supplied for this dashboard came directly out of that study.
 
-!(https://github.com/loucksjohn/tableau_citibike/blob/main/images/citibike-new.jpg?raw=true)
+![citibike](https://github.com/loucksjohn/tableau_citibike/blob/main/images/citibike-new.jpg?raw=true)
 
 
 ## Operating Instructions
