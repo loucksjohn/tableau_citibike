@@ -12,6 +12,8 @@ This Belly Button Plot.ly project creates an interactive dashboard that allows t
 ## Operating Instructions
 In order to view the Tableau story and dashboards, you can either download the 'citibike.jl.twb' file in this repo and view in your Tableau desktop app or you can also access it online by visiting my [Tableau Public](https://public.tableau.com/profile/john.loucks5224#!/vizhome/CitiBikeStory_16116200207080/CitiBikeStory) account.  In the top right-hand corner of all the views, there are sliders that allow you to view the entire eleven month timeframe or drill down into specific months.
 
+![B3](https://github.com/loucksjohn/tableau_citibike/blob/main/images/dashboard1.JPG?raw=true)
+
 ## Resources
 In the GitHub repository for this project you will find all the resources necessary to view this Tableau story and dashboard.  Here's a quick rundow of those files and a brief explanation:
 * citibike.jl.twb - the Tableau workbook file that contains the full Citibike story, plus the dashboards, and the worksheets that were built for the creation of the Citibike story.
