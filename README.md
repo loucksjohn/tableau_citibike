@@ -13,10 +13,10 @@ This Belly Button Plot.ly project creates an interactive dashboard that allows t
 In order to view the Tableau story and dashboards, you can either download the 'citibike.jl.twb' file in this repo and view in your Tableau desktop app or you can also access it online by visiting my [Tableau Public](https://public.tableau.com/profile/john.loucks5224#!/vizhome/CitiBikeStory_16116200207080/CitiBikeStory) account.  In the top right-hand corner of all the views, there are sliders that allow you to view the entire eleven month timeframe or drill down into specific months.
 
 ## Resources
-In the GitHub repository for this project you will find all the resources necessary for the creation of this dashboard.  Here's a quick rundow of those files and a brief explanation:
-* samples.json - the Belly Button Data Set from the Public Science Lab that contains all of the information regarding the individuals who participated in the study and the bacteria found in their belly button
-* index.html - is the the webpage framework that displays the interactive dashboard in the browser
-    * please note that within the index.html file you will find addtional outside sources.  Bootstrap is being referenced in the building of the webpage structure, D3 is being used as a source to manipulate the data in the files , and plot.ly is also being used as a source to help create the charts/graphs.
+In the GitHub repository for this project you will find all the resources necessary to view this Tableau story and dashboard.  Here's a quick rundow of those files and a brief explanation:
+* citibike.jl.twb - the Tableau workbook file that contains the full Citibike story, plus the dashboards, and the worksheets that were built for the creation of the Citibike story.
+* concat_csv.ipynb - the Jupyter notebook file that used to combine all of the NY & Jersey City (JC) files that were downloaded as CSV files from the Citibike website.
+    * please note that  within the index.html file you will find addtional outside sources.  Bootstrap is being referenced in the building of the webpage structure, D3 is being used as a source to manipulate the data in the files , and plot.ly is also being used as a source to help create the charts/graphs.
 
 
 ##  Final Analysis
